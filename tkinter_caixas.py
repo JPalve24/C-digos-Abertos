@@ -16,7 +16,7 @@ def gravarDados():
     arquivo.close()
 
 app = Tk()
-app.title("SHOPEASE")
+app.title("CADASTRO DE CLIENTES")
 app.geometry("500x350")
 app.configure(background="#dde")
 
